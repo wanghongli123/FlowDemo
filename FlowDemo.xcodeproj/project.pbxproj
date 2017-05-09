@@ -416,7 +416,7 @@
 				DEVELOPMENT_TEAM = F5Q9S3Y52L;
 				INFOPLIST_FILE = FlowDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.8000m.FlowDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.8000m.HadaNews;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -429,7 +429,7 @@
 				DEVELOPMENT_TEAM = F5Q9S3Y52L;
 				INFOPLIST_FILE = FlowDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.8000m.FlowDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.8000m.HadaNews;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
